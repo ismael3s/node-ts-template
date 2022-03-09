@@ -13,6 +13,9 @@
       ],
       "@config/*": [
         "src/config/*"
+      ],
+      "@errors/*": [
+        "src/errors/*"
       ]
     },
     "target": "es2017",
