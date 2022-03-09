@@ -1,0 +1,3 @@
+interface IGenericRepository {}
+
+export { IGenericRepository };
